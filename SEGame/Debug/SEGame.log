@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\se game\v13\v11\v9\segame\source.cpp(591): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\se game\v13\v11\v9\segame\source.cpp(1579): warning C4018: '>=': signed/unsigned mismatch
+d:\se game\v13\v11\v9\segame\source.cpp(594): warning C4101: 'randnum': unreferenced local variable
+d:\se game\v13\v11\v9\segame\source.cpp(594): warning C4101: 'getKey': unreferenced local variable
+  SEGame.vcxproj -> D:\SE Game\v13\v11\v9\Debug\SEGame.exe
